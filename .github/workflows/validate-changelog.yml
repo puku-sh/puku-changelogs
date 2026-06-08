@@ -1,0 +1,27 @@
+name: validate-changelog
+
+on:
+  pull_request:
+    paths:
+      - 'changelogs/**'
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: scripts/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: scripts
+
+      - name: Validate changelog entries
+        run: node scripts/generate-index.mjs --check-only
