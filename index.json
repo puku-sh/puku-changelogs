@@ -12,22 +12,14 @@
     ],
     "puku-editor": [
       {
-        "slug": "v1.0.1",
-        "title": "Puku Editor v1.0.1 — Test Release",
-        "version": "1.0.1",
+        "slug": "v1.110.5",
+        "title": "Puku Editor v1.110.5",
+        "version": "1.110.5",
         "product": "puku-editor",
-        "publishedAt": "2026-06-08",
-        "summary": "Test changelog entry for validating the version dropdown."
-      },
-      {
-        "slug": "v1.0.0",
-        "title": "Puku Editor v1.0.0 — Initial Release",
-        "version": "1.0.0",
-        "product": "puku-editor",
-        "publishedAt": "2026-06-06",
-        "summary": "First public changelog entry."
+        "publishedAt": "2026-06-01",
+        "summary": "Plan Mode, auto updates, smarter agent, image support in chat, and stability fixes."
       }
     ]
   },
-  "lastUpdated": "2026-06-09T20:15:17.246Z"
+  "lastUpdated": "2026-06-11T20:19:50.891Z"
 }
