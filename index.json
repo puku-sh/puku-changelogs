@@ -12,6 +12,14 @@
     ],
     "puku-editor": [
       {
+        "slug": "v1.110.6",
+        "title": "Puku Editor v1.110.6",
+        "version": "1.110.6",
+        "product": "puku-editor",
+        "publishedAt": "2026-06-12",
+        "summary": "300K context window, more reliable Plan Mode, plan updates, and stability fixes."
+      },
+      {
         "slug": "v1.110.5",
         "title": "Puku Editor v1.110.5",
         "version": "1.110.5",
@@ -21,5 +29,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-11T20:19:50.891Z"
+  "lastUpdated": "2026-06-12T12:16:10.579Z"
 }
