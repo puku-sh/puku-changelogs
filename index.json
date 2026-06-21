@@ -12,6 +12,14 @@
     ],
     "puku-editor": [
       {
+        "slug": "v1.110.8",
+        "title": "Puku Editor v1.110.8",
+        "version": "1.110.8",
+        "product": "puku-editor",
+        "publishedAt": "2026-06-21",
+        "summary": "New AI models, redesigned sidebar, smarter next-edit suggestions, cleaner edit previews, and reliability fixes."
+      },
+      {
         "slug": "v1.110.7",
         "title": "Puku Editor v1.110.7",
         "version": "1.110.7",
@@ -37,5 +45,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-06-21T16:12:08.547Z"
+  "lastUpdated": "2026-06-21T16:24:36.260Z"
 }
