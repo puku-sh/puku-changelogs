@@ -12,6 +12,14 @@
     ],
     "puku-editor": [
       {
+        "slug": "v1.110.10",
+        "title": "Puku Editor v1.110.10",
+        "version": "1.110.10",
+        "product": "puku-editor",
+        "publishedAt": "2026-06-28",
+        "summary": "macOS-only release with summarization fixes and minor improvements."
+      },
+      {
         "slug": "v1.110.9",
         "title": "Puku Editor v1.110.9",
         "version": "1.110.9",
@@ -53,5 +61,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-01T15:03:50.872Z"
+  "lastUpdated": "2026-07-01T15:08:49.859Z"
 }
