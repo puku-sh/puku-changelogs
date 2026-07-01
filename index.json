@@ -12,6 +12,14 @@
     ],
     "puku-editor": [
       {
+        "slug": "v1.110.11",
+        "title": "Puku Editor v1.110.11",
+        "version": "1.110.11",
+        "product": "puku-editor",
+        "publishedAt": "2026-07-01",
+        "summary": "Puku Home onboarding, clearer subscription messages, and stability fixes."
+      },
+      {
         "slug": "v1.110.10",
         "title": "Puku Editor v1.110.10",
         "version": "1.110.10",
@@ -61,5 +69,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-01T15:08:49.859Z"
+  "lastUpdated": "2026-07-01T15:26:20.107Z"
 }
