@@ -12,6 +12,14 @@
     ],
     "puku-editor": [
       {
+        "slug": "v1.110.13",
+        "title": "Puku Editor v1.110.13",
+        "version": "1.110.13",
+        "product": "puku-editor",
+        "publishedAt": "2026-07-06",
+        "summary": "Aggressive memory management, smoother large file edits, better memory monitoring, and critical agent stability fixes."
+      },
+      {
         "slug": "v1.110.12",
         "title": "Puku Editor v1.110.12",
         "version": "1.110.12",
@@ -77,5 +85,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-06T15:11:45.073Z"
+  "lastUpdated": "2026-07-06T15:14:46.269Z"
 }
