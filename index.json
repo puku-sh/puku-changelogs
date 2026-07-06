@@ -12,6 +12,14 @@
     ],
     "puku-editor": [
       {
+        "slug": "v1.110.12",
+        "title": "Puku Editor v1.110.12",
+        "version": "1.110.12",
+        "product": "puku-editor",
+        "publishedAt": "2026-07-05",
+        "summary": "Linux and macOS release fixing agent loop break issues during multi-step tasks."
+      },
+      {
         "slug": "v1.110.11",
         "title": "Puku Editor v1.110.11",
         "version": "1.110.11",
@@ -69,5 +77,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-01T15:26:20.107Z"
+  "lastUpdated": "2026-07-06T15:11:45.073Z"
 }
