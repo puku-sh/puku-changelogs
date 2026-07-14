@@ -2,6 +2,14 @@
   "products": {
     "puku-cli": [
       {
+        "slug": "v1.8.39",
+        "title": "Puku CLI v1.8.39 — Relay Reliability & Remote Web Migration",
+        "version": "1.8.39",
+        "product": "puku-cli",
+        "publishedAt": "2026-07-14",
+        "summary": "Migrates the Remote Web UI to puku.sh/code, hardens the relay transport (supersede handling, heartbeats, error surfacing), and lands the active-session popup plus inline-image extraction in the bridge."
+      },
+      {
         "slug": "v0.0.1",
         "title": "Puku CLI v0.0.1 — Initial Release",
         "version": "0.0.1",
@@ -85,5 +93,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-06T15:14:46.269Z"
+  "lastUpdated": "2026-07-14T09:27:58.981Z"
 }
