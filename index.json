@@ -8,14 +8,6 @@
         "product": "puku-cli",
         "publishedAt": "2026-07-14",
         "summary": "Migrates the Remote Web UI to puku.sh/code, hardens relay transport, and adds the active-session popup plus inline-image extraction."
-      },
-      {
-        "slug": "v0.0.1",
-        "title": "Puku CLI v0.0.1 — Initial Release",
-        "version": "0.0.1",
-        "product": "puku-cli",
-        "publishedAt": "2026-06-06",
-        "summary": "First public changelog entry for the Puku CLI."
       }
     ],
     "puku-editor": [
@@ -93,5 +85,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-07-14T10:07:15.729Z"
+  "lastUpdated": "2026-08-03T18:22:36.217Z"
 }
