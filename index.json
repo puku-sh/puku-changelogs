@@ -12,6 +12,14 @@
     ],
     "puku-editor": [
       {
+        "slug": "v1.110.14",
+        "title": "Puku Editor v1.110.14",
+        "version": "1.110.14",
+        "product": "puku-editor",
+        "publishedAt": "2026-07-14",
+        "summary": "Max Plan support, clearer quota error messages, and subscription plan check fixes."
+      },
+      {
         "slug": "v1.110.13",
         "title": "Puku Editor v1.110.13",
         "version": "1.110.13",
@@ -85,5 +93,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-03T18:22:36.217Z"
+  "lastUpdated": "2026-08-04T15:18:12.995Z"
 }
