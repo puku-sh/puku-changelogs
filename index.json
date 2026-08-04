@@ -12,6 +12,14 @@
     ],
     "puku-editor": [
       {
+        "slug": "v1.110.15",
+        "title": "Puku Editor v1.110.15",
+        "version": "1.110.15",
+        "product": "puku-editor",
+        "publishedAt": "2026-08-04",
+        "summary": "Faster long chats, nicer code blocks, macOS auto update, Go language support restored, and stability fixes."
+      },
+      {
         "slug": "v1.110.14",
         "title": "Puku Editor v1.110.14",
         "version": "1.110.14",
@@ -93,5 +101,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-04T15:18:12.995Z"
+  "lastUpdated": "2026-08-04T15:22:50.346Z"
 }
