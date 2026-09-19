@@ -2,6 +2,102 @@
   "products": {
     "puku-cli": [
       {
+        "slug": "v1.8.56",
+        "title": "Puku CLI v1.8.56",
+        "version": "1.8.56",
+        "product": "puku-cli",
+        "publishedAt": "2026-09-12",
+        "summary": "The 'Chat about this' option for AskUserQuestion prompts now works on paired Remote Control sessions."
+      },
+      {
+        "slug": "v1.8.55",
+        "title": "Puku CLI v1.8.55",
+        "version": "1.8.55",
+        "product": "puku-cli",
+        "publishedAt": "2026-09-10",
+        "summary": "Compaction and /clear now surface to Remote Control with live status and the right post-action transcript."
+      },
+      {
+        "slug": "v1.8.54",
+        "title": "Puku CLI v1.8.54",
+        "version": "1.8.54",
+        "product": "puku-cli",
+        "publishedAt": "2026-09-06",
+        "summary": "Remote Control history replay now survives socket flaps mid-batch."
+      },
+      {
+        "slug": "v1.8.53",
+        "title": "Puku CLI v1.8.53",
+        "version": "1.8.53",
+        "product": "puku-cli",
+        "publishedAt": "2026-09-05",
+        "summary": "Sub-agent transcripts and tool-use summaries stream over Remote Control, and inbound session rename actually renames."
+      },
+      {
+        "slug": "v1.8.52",
+        "title": "Puku CLI v1.8.52",
+        "version": "1.8.52",
+        "product": "puku-cli",
+        "publishedAt": "2026-09-02",
+        "summary": "Auto-mode safety classifier (opt-in) and the new research-gateway for WebSearch."
+      },
+      {
+        "slug": "v1.8.49",
+        "title": "Puku CLI v1.8.49",
+        "version": "1.8.49",
+        "product": "puku-cli",
+        "publishedAt": "2026-08-21",
+        "summary": "New active-session menu for Remote Control, slash-command dispatch from a paired device, and persisted AI-generated session titles."
+      },
+      {
+        "slug": "v1.8.46",
+        "title": "Puku CLI v1.8.46",
+        "version": "1.8.46",
+        "product": "puku-cli",
+        "publishedAt": "2026-08-10",
+        "summary": "Adds ambient API-key support so PUKU_AI_API_KEY bypass the OAuth login flow."
+      },
+      {
+        "slug": "v1.8.45",
+        "title": "Puku CLI v1.8.45",
+        "version": "1.8.45",
+        "product": "puku-cli",
+        "publishedAt": "2026-08-06",
+        "summary": "Tightens the built-in agent model surface, fixes fast-mode model resolution, and disables a guide agent that was crashing at startup."
+      },
+      {
+        "slug": "v1.8.43",
+        "title": "Puku CLI v1.8.43",
+        "version": "1.8.43",
+        "product": "puku-cli",
+        "publishedAt": "2026-08-04",
+        "summary": "Refreshes the theme token system, ships @-mention path authorization, and promotes the new default model."
+      },
+      {
+        "slug": "v1.8.44",
+        "title": "Puku CLI v1.8.44",
+        "version": "1.8.44",
+        "product": "puku-cli",
+        "publishedAt": "2026-08-04",
+        "summary": "Temporarily disables /statusline while its UX is reworked, and refreshes the default model's description."
+      },
+      {
+        "slug": "v1.8.42",
+        "title": "Puku CLI v1.8.42",
+        "version": "1.8.42",
+        "product": "puku-cli",
+        "publishedAt": "2026-07-28",
+        "summary": "Live progress, agent status, and the session task list now surface to Remote Control, and email is added as a login option."
+      },
+      {
+        "slug": "v1.8.40",
+        "title": "Puku CLI v1.8.40",
+        "version": "1.8.40",
+        "product": "puku-cli",
+        "publishedAt": "2026-07-23",
+        "summary": "Switches login to device-code (copy-paste) auth and fixes Shift+Tab on Windows terminals."
+      },
+      {
         "slug": "v1.8.39",
         "title": "Puku CLI v1.8.39",
         "version": "1.8.39",
@@ -101,5 +197,5 @@
       }
     ]
   },
-  "lastUpdated": "2026-08-04T15:22:50.346Z"
+  "lastUpdated": "2026-09-19T14:07:54.899Z"
 }
