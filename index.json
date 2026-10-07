@@ -2,6 +2,46 @@
   "products": {
     "puku-cli": [
       {
+        "slug": "v1.8.66",
+        "title": "Puku CLI v1.8.66",
+        "version": "1.8.66",
+        "product": "puku-cli",
+        "publishedAt": "2026-10-07",
+        "summary": "Polished /sandbox and /permissions UX, and clearer install instructions for both the native installer and the npm package."
+      },
+      {
+        "slug": "v1.8.65",
+        "title": "Puku CLI v1.8.65",
+        "version": "1.8.65",
+        "product": "puku-cli",
+        "publishedAt": "2026-10-02",
+        "summary": "Smoother installer experience, automatic PKCE session refresh, /feedback command, and tighter permission handling around /tmp writes."
+      },
+      {
+        "slug": "v1.8.63",
+        "title": "Puku CLI v1.8.63",
+        "version": "1.8.63",
+        "product": "puku-cli",
+        "publishedAt": "2026-09-27",
+        "summary": "Skills-directory permission checks now respect user-level config; install script is friendlier in non-interactive sudo contexts."
+      },
+      {
+        "slug": "v1.8.58",
+        "title": "Puku CLI v1.8.58",
+        "version": "1.8.58",
+        "product": "puku-cli",
+        "publishedAt": "2026-09-26",
+        "summary": "More reliable install script on Linux plus better sandbox prerequisite handling when sudo is in play."
+      },
+      {
+        "slug": "v1.8.57",
+        "title": "Puku CLI v1.8.57",
+        "version": "1.8.57",
+        "product": "puku-cli",
+        "publishedAt": "2026-09-22",
+        "summary": "Self-update now runs straight from the bundled binary and a single /tmp carve-out covers both read and write tools."
+      },
+      {
         "slug": "v1.8.56",
         "title": "Puku CLI v1.8.56",
         "version": "1.8.56",
